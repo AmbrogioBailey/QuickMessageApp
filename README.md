@@ -18,6 +18,15 @@ Live demo link( )
 
 > 🖼️ **Preview the app in action:**
 
+<img width="1228" height="724" alt="image" src="https://github.com/user-attachments/assets/d58ac79d-ef15-4369-ba4d-b95176def3f9" />
+<img width="1232" height="724" alt="image" src="https://github.com/user-attachments/assets/836fb2e5-f925-4981-8e4a-3eeb659ecd05" />
+<img width="1223" height="730" alt="image" src="https://github.com/user-attachments/assets/a51f37a1-d8df-4372-aa68-bfd1f2598d0f" />
+<img width="1229" height="726" alt="image" src="https://github.com/user-attachments/assets/67f0409b-87a5-48ac-96e6-4b2d196c2d49" />
+<img width="1231" height="723" alt="image" src="https://github.com/user-attachments/assets/1610fd12-81d3-4d0c-b102-5c39c3372c91" />
+
+
+
+
 
 
 
