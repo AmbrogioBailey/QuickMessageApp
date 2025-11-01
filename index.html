@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>People To Contact</title>
+    <link href="index.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Permanent+Marker&family=Roboto:ital,wght@0,100..900;1,100..900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="background" id="background">
+        <form>
+            <label for="name">Enter Name</label>
+            <input 
+                id="name" 
+                type="text" 
+                placeholder="John Smith" 
+                required
+            >
+            <label for="message">Message</label>
+            <textarea
+                id="message" 
+                type="text" 
+                placeholder="i.e. that was smart" 
+                required
+            ></textarea>
+            <p id="paragraph"></p>
+            <div class="btn-center">
+                <button id="submit" type="submit">Store Message</button>
+            </div>
+            <!-- <button type="button">Clear</button> -->
+            
+
+        </form>
+    </div>
+
+    <script src="index.js" type="module"></script>
+</body>
+</html>
