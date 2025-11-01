@@ -14,7 +14,7 @@ Built with **vanilla JavaScript**, **HTML**, and **CSS**.
 
 ## 🎥 Demo
 
-Live demo link( )
+Live demo link(https://quickmessageapp.netlify.app/)
 
 > 🖼️ **Preview the app in action:**
 
